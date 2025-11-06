@@ -1,0 +1,361 @@
+﻿==============================================
+Metagenomics MD5 Bulk Verification Report
+==============================================
+Execution Time: 2025-11-06 11:54:47
+Working Directory: D:\czb\OMGSY20250926039\宏基因组（二代）
+Computer Name: Y-20250528QGCUB
+Username: Administrator
+PowerShell Version: 5.1.19041.1023
+Operating System: Microsoft Windows NT 10.0.19043.0
+
+Found 39 MD5 files
+
+==============================================
+Processing [1/39]: 3N071
+==============================================
+PASS 3N071.R1.fq.gz : OK (Size: 2647.63 MB)
+PASS 3N071.R2.fq.gz : OK (Size: 2665.54 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 80.69s)
+
+==============================================
+Processing [2/39]: 3N072
+==============================================
+PASS 3N072.R1.fq.gz : OK (Size: 2601.14 MB)
+PASS 3N072.R2.fq.gz : OK (Size: 2614.43 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 11.43s)
+
+==============================================
+Processing [3/39]: 3N073
+==============================================
+PASS 3N073.R1.fq.gz : OK (Size: 3505.8 MB)
+FAIL 3N073.R2.fq.gz : VERIFICATION FAILED (Size: 3527.74 MB)
+   Expected: 0d09d2a5a5e26afe47640e46e9a3524f
+   Actual: f089192023f2eaa7296f57291b44e97b
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 106.47s)
+
+==============================================
+Processing [4/39]: 3N172
+==============================================
+PASS 3N172.R1.fq.gz : OK (Size: 2446.55 MB)
+FAIL 3N172.R2.fq.gz : VERIFICATION FAILED (Size: 2484.18 MB)
+   Expected: 78551e6d0373b6d4b937bebafca99d4b
+   Actual: 4771465e131f3588429351e253c858c5
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 74.91s)
+
+==============================================
+Processing [5/39]: 3N171
+==============================================
+PASS 3N171.R1.fq.gz : OK (Size: 2118.5 MB)
+PASS 3N171.R2.fq.gz : OK (Size: 2130.34 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 64.45s)
+
+==============================================
+Processing [6/39]: 3N173
+==============================================
+PASS 3N173.R1.fq.gz : OK (Size: 3490.05 MB)
+PASS 3N173.R2.fq.gz : OK (Size: 3521.23 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 109.02s)
+
+==============================================
+Processing [7/39]: 3N271
+==============================================
+FAIL 3N271.R1.fq.gz : VERIFICATION FAILED (Size: 2828.15 MB)
+   Expected: 9b5c55e052938caa92c78c13458b70d2
+   Actual: 5a56473040005bd744f4f44ea339f641
+FAIL 3N271.R2.fq.gz : VERIFICATION FAILED (Size: 2848.09 MB)
+   Expected: 2f572b85f8add0d6f6aa9798cbd3bf3f
+   Actual: 80a530489151a723480c0746bbcacf19
+FAILURE: Verification issues found! Passed: 0, Failed: 2, Missing: 0 (Time: 85.1s)
+
+==============================================
+Processing [8/39]: 3N272
+==============================================
+FAIL 3N272.R1.fq.gz : VERIFICATION FAILED (Size: 2439.26 MB)
+   Expected: fc6025fa596259f728fded43e90640ef
+   Actual: 0d4c06dbaf94ba3d1aca7c8e5c531b0a
+PASS 3N272.R2.fq.gz : OK (Size: 2455 MB)
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 74.51s)
+
+==============================================
+Processing [9/39]: 3N273
+==============================================
+FAIL 3N273.R1.fq.gz : VERIFICATION FAILED (Size: 2952.44 MB)
+   Expected: 5b7a2d380e0807882c19781c80061f6f
+   Actual: b47641746a11064b225bafdbbf1e7609
+PASS 3N273.R2.fq.gz : OK (Size: 2978.84 MB)
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 91.22s)
+
+==============================================
+Processing [10/39]: 3P071
+==============================================
+FAIL 3P071.R1.fq.gz : VERIFICATION FAILED (Size: 2540.31 MB)
+   Expected: cc93162d6b756cb75f28e5419892e6b3
+   Actual: 5873cb550ebf14dc0c36853528fa65eb
+PASS 3P071.R2.fq.gz : OK (Size: 2573.9 MB)
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 82.86s)
+
+==============================================
+Processing [11/39]: 3P072
+==============================================
+PASS 3P072.R1.fq.gz : OK (Size: 2411.29 MB)
+PASS 3P072.R2.fq.gz : OK (Size: 2431.45 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 78.52s)
+
+==============================================
+Processing [12/39]: 3P073
+==============================================
+FAIL 3P073.R1.fq.gz : VERIFICATION FAILED (Size: 2741.59 MB)
+   Expected: 05f83c1fe2edc8433a3a7524d5e215be
+   Actual: 65b6122237c61ae1d93074e23cb2eb64
+PASS 3P073.R2.fq.gz : OK (Size: 2749.29 MB)
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 89.59s)
+
+==============================================
+Processing [13/39]: 3P171
+==============================================
+PASS 3P171.R1.fq.gz : OK (Size: 2301.85 MB)
+PASS 3P171.R2.fq.gz : OK (Size: 2325.06 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 74.48s)
+
+==============================================
+Processing [14/39]: 3P172
+==============================================
+FAIL 3P172.R1.fq.gz : VERIFICATION FAILED (Size: 2856.37 MB)
+   Expected: 3844423b4fed5dd608830b92b8371941
+   Actual: f310ed941f71c357bc418379b1499857
+FAIL 3P172.R2.fq.gz : VERIFICATION FAILED (Size: 2886.22 MB)
+   Expected: 770ac17c9beab475b13eb4196dedf6ba
+   Actual: 29fe9d41be3ca8825b332f9c90e9eb94
+FAILURE: Verification issues found! Passed: 0, Failed: 2, Missing: 0 (Time: 94.58s)
+
+==============================================
+Processing [15/39]: 3P173
+==============================================
+PASS 3P173.R1.fq.gz : OK (Size: 2475.91 MB)
+PASS 3P173.R2.fq.gz : OK (Size: 2505.32 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 77.65s)
+
+==============================================
+Processing [16/39]: 3P271
+==============================================
+FAIL 3P271.R1.fq.gz : VERIFICATION FAILED (Size: 3174.77 MB)
+   Expected: cb37260ccf683a9f8d263335c2e1e223
+   Actual: c3a0250cce28d3dde6778447568fbc42
+PASS 3P271.R2.fq.gz : OK (Size: 3193.84 MB)
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 98.64s)
+
+==============================================
+Processing [17/39]: 3P272
+==============================================
+FAIL 3P272.R1.fq.gz : VERIFICATION FAILED (Size: 2138.05 MB)
+   Expected: 28a0f593a595ecf5a5cca78240de2629
+   Actual: 4da83213ed9224b925fa99ca4dabb49e
+PASS 3P272.R2.fq.gz : OK (Size: 2140.65 MB)
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 67.21s)
+
+==============================================
+Processing [18/39]: 3P273
+==============================================
+PASS 3P273.R1.fq.gz : OK (Size: 2169.63 MB)
+PASS 3P273.R2.fq.gz : OK (Size: 2182.41 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 69.57s)
+
+==============================================
+Processing [19/39]: 6N071
+==============================================
+FAIL 6N071.R1.fq.gz : VERIFICATION FAILED (Size: 2316.82 MB)
+   Expected: b26d5e39fbb03cd045807f864bcd4488
+   Actual: dc05ea797deb97a9d5bf4128717b638d
+PASS 6N071.R2.fq.gz : OK (Size: 2327.26 MB)
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 72.28s)
+
+==============================================
+Processing [20/39]: 6N072
+==============================================
+FAIL 6N072.R1.fq.gz : VERIFICATION FAILED (Size: 2942.95 MB)
+   Expected: 4e143d28fdab8ad1dce717c8ff5629d0
+   Actual: 7aca751290b8f9f39c4f3fea793909a8
+PASS 6N072.R2.fq.gz : OK (Size: 2919.09 MB)
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 93.44s)
+
+==============================================
+Processing [21/39]: 6N073
+==============================================
+FAIL 6N073.R1.fq.gz : VERIFICATION FAILED (Size: 2639.09 MB)
+   Expected: 81360c369901d62d37a83e96eab631c9
+   Actual: 7615a5c89cb05bcbfb0b55ad083f4b6e
+FAIL 6N073.R2.fq.gz : VERIFICATION FAILED (Size: 2650.37 MB)
+   Expected: c291231349c8b86f9c36d1a6ba259391
+   Actual: 8a35985830b4434123b8a80d3dfe1bb1
+FAILURE: Verification issues found! Passed: 0, Failed: 2, Missing: 0 (Time: 86.17s)
+
+==============================================
+Processing [22/39]: 6N101
+==============================================
+FAIL 6N101.R1.fq.gz : VERIFICATION FAILED (Size: 2941.87 MB)
+   Expected: 698dc6d20107620e40deaeb8a26fd749
+   Actual: 470de34dde24c2c42dca3328dacb4241
+FAIL 6N101.R2.fq.gz : VERIFICATION FAILED (Size: 2939.12 MB)
+   Expected: 393df3af1d6e0ac2077e87b9724441a3
+   Actual: abb22c4f88306ab9af3385b564074d1d
+FAILURE: Verification issues found! Passed: 0, Failed: 2, Missing: 0 (Time: 97.15s)
+
+==============================================
+Processing [23/39]: 6N102
+==============================================
+PASS 6N102.R1.fq.gz : OK (Size: 3591.95 MB)
+PASS 6N102.R2.fq.gz : OK (Size: 3634.63 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 121.62s)
+
+==============================================
+Processing [24/39]: 6N103
+==============================================
+PASS 6N103.R1.fq.gz : OK (Size: 6517.34 MB)
+FAIL 6N103.R2.fq.gz : VERIFICATION FAILED (Size: 6530.43 MB)
+   Expected: ead082318c7a657eb8c40925167ffc85
+   Actual: e2857a4aa414225b9a84b334fbe22794
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 211.99s)
+
+==============================================
+Processing [25/39]: 6N171
+==============================================
+PASS 6N171.R1.fq.gz : OK (Size: 2512.49 MB)
+PASS 6N171.R2.fq.gz : OK (Size: 2536.54 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 86.86s)
+
+==============================================
+Processing [26/39]: 6N172
+==============================================
+PASS 6N172.R1.fq.gz : OK (Size: 2330.2 MB)
+PASS 6N172.R2.fq.gz : OK (Size: 2351.2 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 79.28s)
+
+==============================================
+Processing [27/39]: 6N173
+==============================================
+FAIL 6N173.R1.fq.gz : VERIFICATION FAILED (Size: 3171.46 MB)
+   Expected: c2c30231ab3a001f94d4b67b0972b9be
+   Actual: 3131227f493a615ade8c36a070c7bcf1
+PASS 6N173.R2.fq.gz : OK (Size: 3191.18 MB)
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 102.85s)
+
+==============================================
+Processing [28/39]: 6N271
+==============================================
+PASS 6N271.R1.fq.gz : OK (Size: 2256.18 MB)
+FAIL 6N271.R2.fq.gz : VERIFICATION FAILED (Size: 2278.61 MB)
+   Expected: 5e60d8b571e8c939db314331c14948de
+   Actual: 6e1ff45a9f0982441546980073bf80f3
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 71.87s)
+
+==============================================
+Processing [29/39]: 6N272
+==============================================
+PASS 6N272.R1.fq.gz : OK (Size: 2109.58 MB)
+PASS 6N272.R2.fq.gz : OK (Size: 2115.68 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 68.5s)
+
+==============================================
+Processing [30/39]: 6N273
+==============================================
+FAIL 6N273.R1.fq.gz : VERIFICATION FAILED (Size: 1996.05 MB)
+   Expected: a1e9bbd53dde2fc3e7b9a1f92b491ddd
+   Actual: 9148e616dfb2d2985415ab4e30d67188
+PASS 6N273.R2.fq.gz : OK (Size: 1969.77 MB)
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 63.85s)
+
+==============================================
+Processing [31/39]: 6P071
+==============================================
+PASS 6P071.R1.fq.gz : OK (Size: 2098.28 MB)
+PASS 6P071.R2.fq.gz : OK (Size: 2108.02 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 68.8s)
+
+==============================================
+Processing [32/39]: 6P072
+==============================================
+PASS 6P072.R1.fq.gz : OK (Size: 5796.32 MB)
+PASS 6P072.R2.fq.gz : OK (Size: 5824.58 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 201.83s)
+
+==============================================
+Processing [33/39]: 6P073
+==============================================
+FAIL 6P073.R1.fq.gz : VERIFICATION FAILED (Size: 3180.13 MB)
+   Expected: 51f4ba4003980172d12299f4a6b8ca4c
+   Actual: 4d2b8e63d9aef20e708cd5bccabe6dfb
+PASS 6P073.R2.fq.gz : OK (Size: 3202.15 MB)
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 110.78s)
+
+==============================================
+Processing [34/39]: 6P171
+==============================================
+FAIL 6P171.R1.fq.gz : VERIFICATION FAILED (Size: 5741.35 MB)
+   Expected: c7ccef0762ae1bb0d87a5cb0a34f8761
+   Actual: 31223ae8395d40b00871f5a850bf4f98
+PASS 6P171.R2.fq.gz : OK (Size: 5779.24 MB)
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 332.39s)
+
+==============================================
+Processing [35/39]: 6P172
+==============================================
+FAIL 6P172.R1.fq.gz : VERIFICATION FAILED (Size: 2323.52 MB)
+   Expected: cf989aa240404bf97042ac3ae57d42fc
+   Actual: fdc5e2864fa41cd4fc11a7a183a59451
+FAIL 6P172.R2.fq.gz : VERIFICATION FAILED (Size: 2330.89 MB)
+   Expected: 8cef1e3a4dac23927e56105ec2a9023c
+   Actual: 522727ed113da03df6970ed11a730d67
+FAILURE: Verification issues found! Passed: 0, Failed: 2, Missing: 0 (Time: 204.69s)
+
+==============================================
+Processing [36/39]: 6P173
+==============================================
+FAIL 6P173.R1.fq.gz : VERIFICATION FAILED (Size: 2396.85 MB)
+   Expected: b4c8effbb45807a010ac613e0d268843
+   Actual: 4098b3d313fca9d2b9b581d5d6b5a524
+FAIL 6P173.R2.fq.gz : VERIFICATION FAILED (Size: 2415.61 MB)
+   Expected: 2af9dd64263e7c883fad86beeb9c70a1
+   Actual: cf12cee0a9731935cdd422e3aecd7254
+FAILURE: Verification issues found! Passed: 0, Failed: 2, Missing: 0 (Time: 176.09s)
+
+==============================================
+Processing [37/39]: 6P271
+==============================================
+PASS 6P271.R1.fq.gz : OK (Size: 2509.15 MB)
+PASS 6P271.R2.fq.gz : OK (Size: 2539.09 MB)
+SUCCESS: All files verified successfully! Files: 2/2 passed (Time: 511.22s)
+
+==============================================
+Processing [38/39]: 6P272
+==============================================
+FAIL 6P272.R1.fq.gz : VERIFICATION FAILED (Size: 2086.88 MB)
+   Expected: cc2cadca6394ad2204027857b4693a78
+   Actual: 2abfdb82955ca8c281de147d147731a3
+FAIL 6P272.R2.fq.gz : VERIFICATION FAILED (Size: 2107.43 MB)
+   Expected: cff2bab7164740763205a017a076e1b9
+   Actual: c3d8e5713addbf58e86a583a3c3032d0
+FAILURE: Verification issues found! Passed: 0, Failed: 2, Missing: 0 (Time: 237.07s)
+
+==============================================
+Processing [39/39]: 6P273
+==============================================
+PASS 6P273.R1.fq.gz : OK (Size: 4539.82 MB)
+FAIL 6P273.R2.fq.gz : VERIFICATION FAILED (Size: 4541.23 MB)
+   Expected: ebfbebeb36934406883eb2f38951758d
+   Actual: 92ef3ccf282e13c59e963c866d9e3864
+FAILURE: Verification issues found! Passed: 1, Failed: 1, Missing: 0 (Time: 535.16s)
+
+==============================================
+MD5 VERIFICATION FINAL REPORT
+==============================================
+Total Folders: 39
+Total Files: 78
+Passed Files: 47
+Failed Files: 31
+Missing Files: 0
+Total Data Size: 222.99 GB
+Total Time: 4966.11 seconds
+Success Rate: 60.26%
+Start Time: 2025-11-06 11:54:47
+End Time: 2025-11-06 13:17:33
+
